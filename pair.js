@@ -164,7 +164,7 @@ router.get("/", async (req, res) => {
 
 
 
-            const sid = `*whaite queen [The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*\n\n*අවශ්‍ය වුවහොත් මා සම්බන්ධ කර ගන්න 🥰*\n\n* https://wa.me/94783314361*\n\n*You can join my whatsapp channel*\n\n*https://whatsapp.com/channel/0029Vb0rCUr72WU3uq0yMg42*`;
+            const sid = `*RAVIYa BOT [The powerful WA BOT]*\n\n👉 ${string_session} 👈\n\n*This is the your Session ID, copy this id and paste into config.js file*`;
 
             const mg = `🛑 *Do not share this code to anyone* /n ☣️☣️☣️☣️☣️🇱🇰🇱🇰☣️☣️🛑`;
 
@@ -172,7 +172,7 @@ router.get("/", async (req, res) => {
 
               image: {
 
-                url: "https://raw.githubusercontent.com/ransikachamindus/Even-/refs/heads/main/Leonardo_Phoenix_10_A_regal_icy_queen_stands_atop_a_frozen_thr_3 (1) (1).jpg",
+                url: "https://raw.githubusercontent.com/raviyags/Ssj/refs/heads/main/High-resolution%203D%20text%20design%2C%20RAVIYA%20BOT%20and%20MENU%20in%20elegant%20gold%20font%2C%20warm%20terracotta%20and%20cool%20teal%20bi...ackground%2C%20golden%20baroque%20frame%2C%20golden%20crown%20with%20gemstones%2C%20embossed%20gold%20finish%20with%20vibrant%20glow%2C%20earthy%20cool%20contrast%20(1).jpg (1) (1).jpg",
 
               },
 
